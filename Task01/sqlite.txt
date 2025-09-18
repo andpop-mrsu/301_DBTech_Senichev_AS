@@ -1,0 +1,2 @@
+Версия: 3.50.4
+Режимы вывода: ascii box column csv html insert json line list markdown qbox quote table tabs tcl
